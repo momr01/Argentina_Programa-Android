@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App Comparar Textos</string>
+    <string name="compare_button">Comparar</string>
+    <string name="placeholder">Ingrese un texto</string>
+    <string name="toast_error_msg">Debe ingresar textos para comparar</string>
+</resources>
